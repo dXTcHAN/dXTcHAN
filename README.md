@@ -1,3 +1,21 @@
+```py
+Chan = {
+    "name": "Abhi",
+    "age": 21,
+    "place": "India",
+    "hobbies": [
+        "python",
+        "gaming",
+        "football",
+        ]
+    }
+print("Don't follow Me 📢")
+```
+
+
+
+
+
 - 👋 Hi, I’m @dXTcHAN
 - 👀 I’m interested in Being a total Nub...
 - 🌱 I’m currently learning to Crash codes like a pro...
